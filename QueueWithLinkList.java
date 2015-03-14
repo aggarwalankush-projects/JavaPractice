@@ -89,6 +89,7 @@ class QueueWithLinkList{
 		theQueue.display();
 		theQueue.dequeue(); 
 		theQueue.dequeue();
+		theQueue.dequeue();
 		theQueue.display();
 	}
 }
