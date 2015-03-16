@@ -1,4 +1,3 @@
 # JavaPractice
-This repository contains some basic java practice codes.
-All algorithms are implemented in most simple way. 
+Common Algorithms implement in most simple way in Java.
 Just download source code, complile and run. 
