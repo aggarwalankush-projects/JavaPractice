@@ -18,7 +18,7 @@ class InsertionSort{
 	public void sort(int[] a){
 		int len=a.length;
 		int temp=0,j=0;
-		for(int i=1;i<len-1;i++){
+		for(int i=1;i<=len-1;i++){
 			j=i;
 			int element=a[i];
 			while(j>0 && element<=a[j-1]){
